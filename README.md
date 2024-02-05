@@ -6,11 +6,9 @@ Imaginez un endroit où chaque recoin respire la passion pour les livres, un lie
 Face à la diversité des ouvrages et aux hésitations des lecteurs, un libraire visionnaire voit une opportunité de transformer cette expérience. **LA_HACKLiOTHEQUE** est conçue pour devenir l'assistant(e) idéal(e) de chaque lecteur, offrant une approche personnalisée pour découvrir de nouveaux horizons.
 
 <details>
-Spoiler : <br>
-C'est en fait un exercice pour s'entraîner en React du cursus The_Hacking_Project.
-<br>
-![React Logo](logo512.png)
-</details>
+**Spoiler :** <br>
+C'est en fait un _exercice_ pour s'entraîner en **React** (cursus The_Hacking_Project).
+<</details>
 
 ## La conception de l'application
 Notre amour pour la lecture et la technologie nous a poussé à créer **LA_HACKLiOTHEQUE**. Notre objectif est clair : créer une interface qui facilite la découverte de livres adaptés à chaque utilisateur. Comme <a href="https://allochiner.netlify.app/">AlloChiner</a> pour les films et séries.
