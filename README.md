@@ -1,4 +1,4 @@
-# **LA_HACKLiOTHEQUE** (La Hackliothèque) : Réinventer l'expérience immersive qu'est La Lecture
+# **LA_HACKLiOTHEQUE** (La Hackliothèque) : Réinventer l'expérience immersive qu'est la lecture
 
 Imaginez un endroit où chaque recoin respire la passion pour les livres, un lieu où les histoires attendent d'être découvertes et les rêves de prendre vie. Dans ce sanctuaire du savoir, une nouvelle ère se profile avec la naissance de **LA_HACKLiOTHEQUE** (La Hackliothèque), une application révolutionnaire conçue en React pour enrichir l'expérience de lecture.
 
