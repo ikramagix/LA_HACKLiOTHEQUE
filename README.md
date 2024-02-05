@@ -8,7 +8,7 @@ Face à la diversité des ouvrages et aux hésitations des lecteurs, un libraire
 <details>Spoiler: C'est en fait un exercice pour s'entraîner en React du cursus The_Hacking_Project.</details>
 
 ## La conception de l'application
-Notre amour pour la lecture et la technologie nous a poussé à créer **LA_HACKLiOTHEQUE**. Notre objectif est clair : créer une interface qui facilite la découverte de livres adaptés à chaque utilisateur. Comme <a href="https://allochiner.netlify.app/">AlloChiner</a> voulait le faire pour les films et séries.
+Notre amour pour la lecture et la technologie nous a poussé à créer **LA_HACKLiOTHEQUE**. Notre objectif est clair : créer une interface qui facilite la découverte de livres adaptés à chaque utilisateur. Comme <a href="https://allochiner.netlify.app/">AlloChiner</a> pour les films et séries.
 
 ## L'expérience utilisateur avec **LA_HACKLiOTHEQUE**
 Une fois lancée, **LA_HACKLiOTHEQUE** apprend de vos préférences de lecture. Elle vous suggère des ouvrages en fonction de vos goûts et de vos découvertes antérieures. C'est comme avoir un conseiller personnel qui comprend vos intérêts et vous guide vers votre prochaine grande lecture. Un peu comme ce qu'utilisent les réseaux sociaux pour vous suggérer du contenu similaire sur la base du contenu que vous regardez le plus longtemps ou avec lequel vous intéragissez. **LA_HACKLiOTHEQUE** avec son interface élégante, permet aux utilisateurs de marquer les livres qui les intriguent, de suivre les sorties anticipées, et de recevoir des recommandations personnalisées basées sur leurs préférences et historique de lecture.
